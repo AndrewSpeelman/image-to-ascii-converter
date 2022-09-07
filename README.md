@@ -1,1 +1,1 @@
-# image-to-ascii-converter
+# A simple image to ascii converter using p5.js
